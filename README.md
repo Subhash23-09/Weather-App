@@ -71,7 +71,7 @@ This is a fully responsive weather application built using **React JS** and **Vi
 - **Toggle Temperature Unit**: Switch between Celsius and Fahrenheit using the unit toggle button.
 
 ## Screenshots
-![image](https://github.com/user-attachments/assets/3669761d-8581-45c0-92c4-a568f7192c1a)
 ![image](https://github.com/user-attachments/assets/45fc6ec7-1d09-48c1-88c9-5ca18e377382)
+![image](https://github.com/user-attachments/assets/3669761d-8581-45c0-92c4-a568f7192c1a)
 
 
